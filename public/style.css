@@ -1,0 +1,33 @@
+  
+html {
+  font-size: 10px;
+}
+
+p {
+  font-size: 2.4rem;
+  border: black;
+}
+
+.my-col {
+  border: 0.1rem solid black;
+  width: 10rem;
+  height: 8rem;
+  margin-left: 1rem;
+  margin-right: 1rem;
+}
+
+.my-row {
+  width: 60rem;
+  margin: 1rem;
+}
+
+.my-container {
+  padding: 1em;
+}
+
+#textPanel {
+  margin-left: 2rem;
+}
+#div1 {
+  padding: 3rem;
+}
